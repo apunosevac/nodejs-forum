@@ -52,7 +52,7 @@ h1{
 }
 
 /* Full-width inputs */
-input[type=text], input[type=password] {
+input[type=text], input[type=password], input[type=email] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -109,6 +109,10 @@ img.avatar {
 /* Add padding to containers */
 .container {
   padding: 16px;
+}
+
+.registerStatus{
+  color: white;
 }
 
 /* The "Forgot password" text */
